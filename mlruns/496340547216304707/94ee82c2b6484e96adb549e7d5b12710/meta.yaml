@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPs/dagshub_demo/mlruns/496340547216304707/94ee82c2b6484e96adb549e7d5b12710/artifacts
+end_time: 1729341455615
+entry_point_name: ''
+experiment_id: '496340547216304707'
+lifecycle_stage: active
+run_id: 94ee82c2b6484e96adb549e7d5b12710
+run_name: nebulous-toad-543
+run_uuid: 94ee82c2b6484e96adb549e7d5b12710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729341455532
+status: 3
+tags: []
+user_id: User

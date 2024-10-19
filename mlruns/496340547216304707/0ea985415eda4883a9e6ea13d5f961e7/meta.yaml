@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPs/dagshub_demo/mlruns/496340547216304707/0ea985415eda4883a9e6ea13d5f961e7/artifacts
+end_time: 1729342930038
+entry_point_name: ''
+experiment_id: '496340547216304707'
+lifecycle_stage: active
+run_id: 0ea985415eda4883a9e6ea13d5f961e7
+run_name: adventurous-gnat-591
+run_uuid: 0ea985415eda4883a9e6ea13d5f961e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729342916761
+status: 3
+tags: []
+user_id: User

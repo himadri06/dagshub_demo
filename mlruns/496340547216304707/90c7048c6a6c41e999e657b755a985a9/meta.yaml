@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOPs/dagshub_demo/mlruns/496340547216304707/90c7048c6a6c41e999e657b755a985a9/artifacts
+end_time: 1729342758081
+entry_point_name: ''
+experiment_id: '496340547216304707'
+lifecycle_stage: active
+run_id: 90c7048c6a6c41e999e657b755a985a9
+run_name: serious-horse-583
+run_uuid: 90c7048c6a6c41e999e657b755a985a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729342757541
+status: 4
+tags: []
+user_id: User

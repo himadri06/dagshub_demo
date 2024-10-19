@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af54bfc99d3549c587944efb578358ad/artifacts
+end_time: 1729340296585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af54bfc99d3549c587944efb578358ad
+run_name: burly-boar-100
+run_uuid: af54bfc99d3549c587944efb578358ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729340296498
+status: 3
+tags: []
+user_id: User
